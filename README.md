@@ -93,29 +93,8 @@
 
 ---
 
+
 ### Contato
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Logo" 
-    width="22px" 
-    style="margin-right: 8px;" 
-    src="https://cdn.prod.website-files.com/65c3a844357606c1b08a1e98/68b7623c0259b3fdc05c6852_github-white-icon.png"
-  />
-  <strong>GitHub:</strong> https://github.com/arthurfeliipe
-</p>
-
-<p>
-  <img 
-    align="left" 
-    alt="Gmail Logo" 
-    width="22px" 
-    style="margin-right: 8px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
-  />
-  <strong>Email:</strong> arthurf2105@gmail.com
-</p>
 
 <p>
   <img 
@@ -125,5 +104,16 @@
     style="margin-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
   />
-  <strong>LinkedIn:</strong> https://www.linkedin.com/in/arthurfeliipe
+  <strong>Linkedin:</strong> https://www.linkedin.com/in/arthurfeliipe
+</p>
+
+<p>
+  <img 
+    align="left" 
+    alt="Github Logo" 
+    width="22px" 
+    style="margin-right: 8px;" 
+    src="https://cdn.prod.website-files.com/65c3a844357606c1b08a1e98/68b7623c0259b3fdc05c6852_github-white-icon.png"
+  />
+  <strong>GitHub:</strong> https://github.com/arthurfeliipe
 </p>
