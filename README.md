@@ -1,6 +1,6 @@
 # Arthur Felipe 
 
-**`Dev Front-end`**
+## Dev Front-end
 
 **Me interessei por programação durante meu curso Tec. Informática, venho procurando saber mais sobre a área de Dev. Front-end. Quero achar meu primeiro emprego na área, fazer um bom serviço e demonstrar conhecimentos adquiridos.**
 
