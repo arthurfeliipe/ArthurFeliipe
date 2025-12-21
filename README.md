@@ -2,7 +2,7 @@
 
 **`Dev Front-end`**
 
-**Me chamo Arhur Felipe, tenho 20 anos e sou de Minas Gerais. Cursando técnico em informática. Gosto de tecnologia e estou buscando aprender cada vez mais, atualmente estou no começo da programação buscando entender certas coisas e funcionamentos.**
+**Me interessei por programação durante meu curso Tec. Informática, venho procurando saber mais sobre a área de Dev. Front-end. Quero achar meu primeiro emprego na área, fazer um bom serviço e demonstrar conhecimentos adquiridos.**
 
 <p align="row">
     <a href="https://github.com/arthurfeliipe?tab=repositories&sort=stargazers">
