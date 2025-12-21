@@ -1,16 +1,129 @@
-## Hi there 👋
+# Arthur Felipe 
 
-<!--
-**arthurfeliipe/ArthurFeliipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Dev Front-end`**
 
-Here are some ideas to get you started:
+**Me chamo Arhur Felipe, tenho 20 anos e sou de Minas Gerais. Cursando técnico em informática. Gosto de tecnologia e estou buscando aprender cada vez mais, atualmente estou no começo da programação buscando entender certas coisas e funcionamentos.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="row">
+    <a href="https://github.com/arthurfeliipe?tab=repositories&sort=stargazers">
+        <img 
+            alt="Estrelas GitHub" 
+            title="Estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/arthurfeliipe?color=ffd400&style=for-the-badge&labelColor=edc918&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/arthurfeliipe?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/arthurfeliipe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### Linguagens / Tecnologias / +
+
+<img 
+    align="left" 
+    alt="VSCode"
+    title="VSCode" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML5"
+    title="HTML5" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS3" 
+    title="CSS3"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<br>
+<br>
+
+---
+
+### Sobre Mim
+
+- Atualmente estudando front-end.
+- Interessado em desenvolvimento web.
+- Aberto a aprendizado e novos desafios.
+
+---
+
+### Objetivos Atuais
+
+- Aprofundar em **HTML** e **CSS**.
+- Aprender **JavaScript**.
+- Construir projetos próprios para prática.
+
+---
+
+### Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=arthurfeliipe&show_icons=true&theme=tokyonight" 
+  />
+  <img 
+    height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfeliipe&layout=compact&theme=tokyonight"
+  />
+</p>
+
+---
+
+### Contato
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Logo" 
+    width="22px" 
+    style="margin-right: 8px;" 
+    src="https://cdn.prod.website-files.com/65c3a844357606c1b08a1e98/68b7623c0259b3fdc05c6852_github-white-icon.png"
+  />
+  <strong>GitHub:</strong> https://github.com/arthurfeliipe
+</p>
+
+<p>
+  <img 
+    align="left" 
+    alt="Gmail Logo" 
+    width="22px" 
+    style="margin-right: 8px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"
+  />
+  <strong>Email:</strong> arthurf2105@gmail.com
+</p>
+
+<p>
+  <img 
+    align="left" 
+    alt="LinkedIn Logo" 
+    width="22px" 
+    style="margin-right: 8px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+  />
+  <strong>LinkedIn:</strong> https://www.linkedin.com/in/arthurfeliipe
+</p>
