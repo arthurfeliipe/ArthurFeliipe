@@ -1,6 +1,8 @@
+<!-- Site logos: "devicon.dev"-->
+
 # Arthur Felipe 
 
-### Dev Front-end
+**`Desenvolvedor Front-End`**
 
 Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu curso Tec. Informática, venho procurando saber mais sobre a área de Dev. Front-end. Atualmente estudo para me tornar um desenvolvedor Front-End, achar meu primeiro emprego na área, fazer um bom serviço e demonstrar conhecimentos adquiridos.
 
@@ -49,6 +51,32 @@ Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+<!-- 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+-->
 <img 
     align="left" 
     alt="Git" 
@@ -65,6 +93,16 @@ Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
+<!-- 
+<img 
+    align="left" 
+    alt="Amazon AWS" 
+    title="Amazon AWS"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+-->
 <br>
 <br>
 
@@ -72,7 +110,7 @@ Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu c
 
 ### Sobre Mim
 
-- Atualmente estudando front-end.
+- Atualmente estudando Front-End.
 - Interessado em desenvolvimento web.
 - Aberto a aprendizado e novos desafios.
 
@@ -90,14 +128,15 @@ Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu c
 
 <p>
   <img 
+    align="row"
+    alt="GitHub Status" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=arthurfeliipe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      alt="Github Status" 
-      height="140em" 
+      alt="GitHub Status" 
+      height="144" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfeliipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
@@ -108,8 +147,7 @@ Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu c
 
 <p>
   <img 
-    align="left" 
-    alt="LinkedIn Logo" 
+    alt="Linkedin Logo" 
     width="22px" 
     style="margin-right: 8px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -119,11 +157,10 @@ Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu c
 
 <p>
   <img 
-    align="left" 
     alt="Github Logo" 
     width="22px" 
     style="margin-right: 8px;" 
     src="https://cdn.prod.website-files.com/65c3a844357606c1b08a1e98/68b7623c0259b3fdc05c6852_github-white-icon.png"
   />
-  <strong>GitHub:</strong> https://github.com/arthurfeliipe
+  <strong>Github:</strong> https://github.com/arthurfeliipe
 </p>
