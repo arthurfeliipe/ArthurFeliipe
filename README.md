@@ -90,17 +90,14 @@ Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu c
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=arthurfeliipe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
+      alt="Github Status" 
+      height="140em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfeliipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
