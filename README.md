@@ -23,7 +23,7 @@
 
 ---
 
-### Linguagens / Tecnologias / +
+### Habilidades
 
 <img 
     align="left" 
@@ -86,21 +86,26 @@
 
 ---
 
-### Estatísticas do GitHub
+### Estatísticas
 
-<p align="center">
+<p>
   <img 
+    align="left" 
+    alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=arthurfeliipe&show_icons=true&theme=tokyonight" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=arthurfeliipe&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfeliipe&layout=compact&theme=tokyonight"
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfeliipe&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
 ---
-
 
 ### Contato
 
