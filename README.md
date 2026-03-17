@@ -1,5 +1,3 @@
-<!-- Site logos: "devicon.dev"-->
-
 # Arthur Felipe 
 
 **`Desenvolvedor Front-End`**
@@ -51,32 +49,6 @@ Sou de Conselheiro Lafaiete, tenho 21 anos, e sempre me tive interesse na área 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<!-- 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
--->
 <img 
     align="left" 
     alt="Git" 
@@ -93,16 +65,6 @@ Sou de Conselheiro Lafaiete, tenho 21 anos, e sempre me tive interesse na área 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
-<!-- 
-<img 
-    align="left" 
-    alt="Amazon AWS" 
-    title="Amazon AWS"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-/>
--->
 <br>
 <br>
 
@@ -111,16 +73,15 @@ Sou de Conselheiro Lafaiete, tenho 21 anos, e sempre me tive interesse na área 
 ### Sobre Mim
 
 - Atualmente estudando Front-End.
-- Interessado em desenvolvimento web.
-- Interessado em Redes.
-- Interessado em Blender.
-- Aberto a aprendizado e novos desafios.
+Interessado em desenvolvimento web.
+Interessado em Redes.
+Interessado em Blender.
 
 ---
 
 ### Objetivos Atuais
 
-- Aprender Blender.
+- Aprender **Blender**.
 - Aprender **JavaScript**.
 
 ---
