@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Sou de Minas Gerais tenho 20 anos, me interessei por programação durante meu curso Tec. Informática, venho procurando saber mais sobre a área de Dev. Front-end. Atualmente estudo para me tornar um desenvolvedor Front-End, achar meu primeiro emprego na área, fazer um bom serviço e demonstrar conhecimentos adquiridos.
+Sou de Conselheiro Lafaiete, tenho 21 anos, e sempre me tive interesse na área de informática, também venho procurando saber mais sobre a área de Desenvolvimento. Atualmente estudo também sobre a área e programação e modelagem 3D, busco achar meu primeiro emprego na área de informática e demonstrar conhecimentos adquiridos.
 
 <p align="row">
     <a href="https://github.com/arthurfeliipe?tab=repositories&sort=stargazers">
