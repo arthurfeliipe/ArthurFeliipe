@@ -112,15 +112,16 @@ Sou de Conselheiro Lafaiete, tenho 21 anos, e sempre me tive interesse na área 
 
 - Atualmente estudando Front-End.
 - Interessado em desenvolvimento web.
+- Interessado em Redes.
+- Interessado em Blender.
 - Aberto a aprendizado e novos desafios.
 
 ---
 
 ### Objetivos Atuais
 
-- Aprofundar em **HTML** e **CSS**.
+- Aprender Blender.
 - Aprender **JavaScript**.
-- Construir projetos próprios para prática.
 
 ---
 
